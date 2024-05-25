@@ -11,6 +11,10 @@
 <span>*Tech- `React` with `Tailwind` and `React-Leaflet` for visualizing GeoJSON/KML files with maps and  backend is developed using the `Golang` and `Gin` framework, ensuring efficiency and performance along with streamlined routing and middleware support*</span>.\
 Github - [Link](https://github.com/Prathamesh017/GeoExplorer-React-Golang)
 
+* AutoMail Mate - Tool designed to automate the process of reading google and outlook based emails, understanding their context using AI, and responding to them in Google and Outlook accounts.\
+  <span>*Tech- Set up OAuth for `Gmail/Outlook`, `Gemini` API for email context analysis, `BullMQ` for scheduling email checks and reads, and `Websockets` for real-time server notifications*</span>.\
+  Github- [Link](https://github.com/Prathamesh017/AutoMail-Mate)
+
 * Budget Buddy- It is Personal Budget Offline Based Desktop App made With Tauri which will keep track of all your transactions .\
 <span>*Tech- `TAURI` Toolkit wraped with `REACT` for UI , `RUST` AND `SQLITE` COMBO FOR offline DB interaction.*</span>.\
 Github - [Link](https://github.com/Prathamesh017/Budget-Buddy-Offline-Desktop-App)
@@ -23,7 +27,7 @@ Github - [Link](https://github.com/Prathamesh017/hiring-app)
 <span>*Tech Used Client - `React`, `React-Redux`, `Tailwind`, `Firebase`,Server - `Nestjs`,`Express` ,`Mongoose`,`MongoDB`,`Typescript`*</span>.\
 Github - [Link](https://github.com/Prathamesh017/Word-Wizard)
 
-* Total Full Stack Project -12.
+* Total Full Stack Project -13.
 
 
 
